@@ -1,0 +1,1 @@
+import "../Navbar/assets/css/Navbar.css"import logo from "../Navbar/assets/images/logo.svg"export default function Navbar() {    return(        <nav>            <img src={logo} alt={logo} className="nav--logo" />            <h3 className="nav--title">My Travel Journal</h3>        </nav>    )}

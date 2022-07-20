@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    font-family: 'Albert Sans', sans-serif;
+}
+
+section {
+    display: flex;
+    padding: 100px 400px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+a, a:hover, a:focus, a:active {
+    text-decoration: none;
+    color: inherit;
+}

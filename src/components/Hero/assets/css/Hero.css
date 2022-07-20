@@ -1,0 +1,35 @@
+.hero {
+    display: flex;
+
+}
+
+.test{
+    overflow-wrap: break-word;
+}
+
+.hero--image {
+    width: 260px;
+    height: 350px;
+    border-radius: 25px;
+}
+
+.hero--locPoint {
+    padding-top: 10px;
+    display: flex;
+    width: 20px;
+    height: auto;
+}
+
+.hero--details {
+    display: grid;
+    grid-template-columns: 20px 50px auto;
+    gap: 10px;
+}
+
+.hero--container {
+    padding: 20px;
+}
+
+.hero--title {
+    display: flex;
+}
